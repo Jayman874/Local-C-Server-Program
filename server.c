@@ -1,8 +1,8 @@
 /**
  * Skeleton file for server.c
  * 
- * You are free to modify this file to implement the server specifications
- * as detailed in Assignment 3 handout.
+ * Allows user to establish a server then connect to it 
+ * through localhost
  * 
  */ 
 
